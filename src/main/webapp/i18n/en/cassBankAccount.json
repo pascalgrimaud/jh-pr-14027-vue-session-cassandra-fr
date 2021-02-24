@@ -1,0 +1,35 @@
+{
+  "jhipsterApp": {
+    "cassBankAccount": {
+      "home": {
+        "title": "Cass Bank Accounts",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Cass Bank Account",
+        "createOrEditLabel": "Create or edit a Cass Bank Account",
+        "notFound": "No Cass Bank Accounts found"
+      },
+      "created": "A new Cass Bank Account is created with identifier {{ param }}",
+      "updated": "A Cass Bank Account is updated with identifier {{ param }}",
+      "deleted": "A Cass Bank Account is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Cass Bank Account {{ id }}?"
+      },
+      "detail": {
+        "title": "Cass Bank Account"
+      },
+      "id": "ID",
+      "userId": "User Id",
+      "name": "Name",
+      "bankNumber": "Bank Number",
+      "agencyNumber": "Agency Number",
+      "lastOperationDuration": "Last Operation Duration",
+      "meanOperationDuration": "Mean Operation Duration",
+      "balance": "Balance",
+      "lastOperationDate": "Last Operation Date",
+      "active": "Active",
+      "picture": "Picture",
+      "operationsFile": "Operations File",
+      "accountType": "Account Type"
+    }
+  }
+}

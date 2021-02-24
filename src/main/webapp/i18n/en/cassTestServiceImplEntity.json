@@ -1,0 +1,60 @@
+{
+  "jhipsterApp": {
+    "cassTestServiceImplEntity": {
+      "home": {
+        "title": "Cass Test Service Impl Entities",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Cass Test Service Impl Entity",
+        "createOrEditLabel": "Create or edit a Cass Test Service Impl Entity",
+        "notFound": "No Cass Test Service Impl Entities found"
+      },
+      "created": "A new Cass Test Service Impl Entity is created with identifier {{ param }}",
+      "updated": "A Cass Test Service Impl Entity is updated with identifier {{ param }}",
+      "deleted": "A Cass Test Service Impl Entity is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Cass Test Service Impl Entity {{ id }}?"
+      },
+      "detail": {
+        "title": "Cass Test Service Impl Entity"
+      },
+      "id": "ID",
+      "stringField": "String Field",
+      "stringRequiredField": "String Required Field",
+      "stringMinlengthField": "String Minlength Field",
+      "stringMaxlengthField": "String Maxlength Field",
+      "stringPatternField": "String Pattern Field",
+      "integerField": "Integer Field",
+      "integerRequiredField": "Integer Required Field",
+      "integerMinField": "Integer Min Field",
+      "integerMaxField": "Integer Max Field",
+      "longField": "Long Field",
+      "longRequiredField": "Long Required Field",
+      "longMinField": "Long Min Field",
+      "longMaxField": "Long Max Field",
+      "floatField": "Float Field",
+      "floatRequiredField": "Float Required Field",
+      "floatMinField": "Float Min Field",
+      "floatMaxField": "Float Max Field",
+      "doubleRequiredField": "Double Required Field",
+      "doubleMinField": "Double Min Field",
+      "doubleMaxField": "Double Max Field",
+      "bigDecimalRequiredField": "Big Decimal Required Field",
+      "bigDecimalMinField": "Big Decimal Min Field",
+      "bigDecimalMaxField": "Big Decimal Max Field",
+      "localDateField": "Local Date Field",
+      "localDateRequiredField": "Local Date Required Field",
+      "instantDateField": "Instant Date Field",
+      "instantRequiredField": "Instant Required Field",
+      "zonedDateTimeField": "Zoned Date Time Field",
+      "zonedDateTimeRequiredField": "Zoned Date Time Required Field",
+      "durationDateField": "Duration Date Field",
+      "durationRequiredField": "Duration Required Field",
+      "booleanField": "Boolean Field",
+      "booleanRequiredField": "Boolean Required Field",
+      "enumTom": "Enum Tom",
+      "enumRequiredTom": "Enum Required Tom",
+      "picture": "Picture",
+      "operationsFile": "Operations File"
+    }
+  }
+}

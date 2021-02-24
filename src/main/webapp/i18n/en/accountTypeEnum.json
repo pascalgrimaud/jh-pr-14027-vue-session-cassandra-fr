@@ -1,0 +1,9 @@
+{
+  "jhipsterApp": {
+    "AccountTypeEnum": {
+      "null": "",
+      "STANDARD": "STANDARD",
+      "PREMIUM": "PREMIUM"
+    }
+  }
+}
